@@ -3,6 +3,7 @@ title: Learn Together
 published: true
 ---
 # Learn Together
+#### (70 mins)
 
 ## (5 mins) Reading: Marketing & Sales
 
@@ -17,3 +18,12 @@ Measure the effectiveness of marketing and sales efforts using analytics tools a
 
 ## (5 mins) Article: 
 [17 Sales Goals Examples for Individuals and Teams [with an Action Plan](https://www.leadsquared.com/learn/sales/sales-goals-examples-for-success/)
+
+## (30 mins) Founder Interview: 
+[Jordan Wan - Sales for New Founders](https://drive.google.com/file/d/194Lh_tiuPEXAfxfcnIzbZyY0BQunAmSc/view?usp=sharing)
+
+## (10 mins) Discussion: 
+What ideas from today’s readings and video stood out to you? Was anything confusing or difficult to understand? Answer one another’s questions and commit to finding answers after the session if any questions remain.
+
+## (15 mins) Breakout Rooms:
+Return to your executive summaries and revise them with a focus on the ideas from this session. Give and receive feedback on executive summaries
