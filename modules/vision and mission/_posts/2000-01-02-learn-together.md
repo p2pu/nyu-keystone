@@ -3,13 +3,14 @@ title: Learn Together
 published: true
 ---
 
-# Learn Together (65 mins)
+# Learn Together 
+#### (65 mins)
 
 ## (5 mins) Discussion: Goal Sharing
 
 Take turns sharing your goal for this course. What are you trying to get out of this learning experience?
 
-## (10 mins) Reading**
+## (10 mins) Reading
 
 **What is a business model?**
 
