@@ -40,7 +40,8 @@ The values of a company are the guiding principles that shape its culture, behav
 
 [Image 3](https://drive.google.com/file/d/1sLAqdgpJTkWhW0uOEhSFDoPg0XtRJdbg/view?usp=share_link)   
 
-## (5 mins) Activity: Form small groups and discuss why you think the following statements are a vision or a mission statement.
+## (5 mins) Activity: 
+Form small groups and discuss why you think the following statements are a vision or a mission statement.
 
 1. Ben & Jerry’s: “Making the best ice cream in the nicest possible way.” (Vision)
 2. Warby Parker: “We believe that buying glasses should be easy and fun.” (Vision)
@@ -49,11 +50,14 @@ The values of a company are the guiding principles that shape its culture, behav
 5. LinkedIn: “Create economic opportunity for every member of the global workforce.” (Vision)
 6. Microsoft: Early days: “A computer on every desk and in every home.” Now: “To empower every person and every organization on the planet to achieve more.” (Mission)
 
-## (18 mins) Video: Barak Kaufman - [Why Start a Company? Articulate your Vision and Purpose](https://drive.google.com/drive/u/0/folders/1U_msSPWssOYop1Kn7PPwMTdszBBvAoKp)
+## (18 mins) Video: 
+Barak Kaufman - [Why Start a Company? Articulate your Vision and Purpose](https://drive.google.com/drive/u/0/folders/1U_msSPWssOYop1Kn7PPwMTdszBBvAoKp)
 
 ## (5 mins) Discussion:
 Share your thoughts about the video. What ideas stood out to you? Do you need clarification on certain terms and concepts? What ideas do you want to learn more about? 
 
-## (5 mins) Activity: Quickly free-write your first draft of your mission and vision statements for your company (real or imagined!). You’ll keep working on this in future sessions, so it’s okay to get a general idea on paper.
+## (5 mins) Activity: 
+Quickly free-write your first draft of your mission and vision statements for your company (real or imagined!). You’ll keep working on this in future sessions, so it’s okay to get a general idea on paper.
 
-(10 mins) Breakout Rooms: Discuss your vision and mission statements in small groups. 
+## (10 mins) Breakout Rooms: 
+Discuss your vision and mission statements in small groups. 
