@@ -81,4 +81,5 @@ To write an executive summary for a business, start by introducing the company a
 * Expected Costs
 * Funding Needs (Optional)
 
-## (15 mins) Breakout Rooms: Give and receive feedback on your executive summaries in small groups. 
+## (15 mins) Breakout Rooms: 
+Give and receive feedback on your executive summaries in small groups. 
