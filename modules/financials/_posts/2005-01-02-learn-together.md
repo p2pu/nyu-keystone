@@ -3,6 +3,7 @@ title: Check-In
 published: true
 ---
 # Learn Together
+#### (70 mins)
 
 ## (10 mins) Article: 
 [Fund your business](https://www.sba.gov/business-guide/plan-your-business/fund-your-business) - A comparison from the U.S. Small Business Administration**
@@ -65,3 +66,12 @@ The key difference between direct and ancillary revenue models is that direct re
 * Rent
 * Tax
 * Shipping
+
+## (10 mins) Article: 
+[How to Read and Understand a Cash Flow Statement](https://online.hbs.edu/blog/post/how-to-read-a-cash-flow-statement)
+
+## (15 mins) Discussion: 
+Review the concepts in today’s readings. Did anything feel particularly interesting or confusing?  Answer one another’s questions and commit to finding answers after the session if any questions remain.
+
+## (20 mins) Breakout Rooms: 
+Give and receive feedback on one another’s executive summaries.
