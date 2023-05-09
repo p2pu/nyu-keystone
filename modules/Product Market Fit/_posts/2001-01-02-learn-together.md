@@ -170,4 +170,5 @@ Based on their response, customers are grouped into three categories: promoters 
 2. Returning customers who refer their friends, coworkers, family, etc.
 3. Sign-ups to subscriptions, loyalty programs, etc. and/or showing up to engagements
 
-## (15 mins) Breakout Rooms: Meet in small groups to revisit the progress you’ve made on your vision and mission statement since last week.
+## (15 mins) Breakout Rooms: 
+Meet in small groups to revisit the progress you’ve made on your vision and mission statement since last week.
