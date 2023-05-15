@@ -9,10 +9,10 @@
   <div class="navbar-collapse collapse" id="navbarSupportedContent">
     <ul class="navbar-nav">
       {% for module in site.data.course.modules %}
-       {% assign first_post = site.categories[module]|reverse|first %}
-       <li class="nav-item py-2{% if page.categories[1] == module %} active{% endif %}">
+       {% assign first_post = site.categories[module.slug]|reverse|first %}
+       <li class="nav-item py-2{% if page.categories[1] == module.slug %} active{% endif %}">
          <a class="nav-link" href="{{ site.baseurl }}{{ first_post.url }}">
-           {{ module }}
+           {{ module.title }}
          </a>
        </li>
       {% endfor %}

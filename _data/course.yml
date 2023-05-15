@@ -1,3 +1,19 @@
 title: Course-in-a-Box
 description: An open-source project for creating online courses, built by <a href="https://www.p2pu.org">P2PU</a>
-modules: ["vision-and-mission", "Product-Market-Fit", "Go-to-Market-Strategy", "Storytelling-and-Pitching", "Marketing-and-Sales", "Financials", "Pivoting", "Working-Session"]
+modules:
+  - title: Vision and Mission
+    slug: vision-and-mission
+  - title: Product Market Fit
+    slug: product-market-fit
+  - title: Go to Market Strategy
+    slug: go-to-market-strategy
+  - title: Storytelling and Pitching
+    slug: storytelling-and-pitching
+  - title: Marketing-and-Sales
+    slug: marketing-and-sales
+  - title: Financials
+    slug: financials
+  - title: Pivoting
+    slug: pivoting
+  - title: Working-Session
+    slug: working-session
