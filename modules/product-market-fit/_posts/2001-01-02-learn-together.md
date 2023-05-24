@@ -10,7 +10,7 @@ published: true
 ## Reading: Product Market Fit
 (10 mins) 
 
-**What is a product? **
+**What is a product?**
 
 A product is how you deliver value to your organization’s customers
 
@@ -28,7 +28,7 @@ The **Value Proposition** is the worth that you offer to your customers. It’s 
 
 When defining Value Proposition, consider the** experiences** of your customers and the **capability** of your product or service to help customers minimize pains and maximize gains.
 
-Ask Yourself:
+**Ask Yourself:**
 
 * What products and services are we offering to help them complete their jobs?
     * **Jobs** are the functional, emotional, social jobs your customers need to have done
@@ -157,7 +157,7 @@ A Net Promoter Score (NPS) is a metric used by businesses to measure customer lo
 
 Based on their response, customers are grouped into three categories: promoters (score 9-10), passives (score 7-8), and detractors (score 0-6). The NPS is then calculated by subtracting the percentage of detractors from the percentage of promoters. The score can range from -100 to 100, with a higher score indicating greater customer loyalty and satisfaction.
 
-**How do I know when I have a Product Market Fit? **
+**How do I know when I have a Product Market Fit?**
 
 1. You consistently get an NPS > 50
 2. Returning customers who refer their friends, coworkers, family, etc.
