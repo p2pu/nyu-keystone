@@ -128,10 +128,6 @@ Create a broad plan for testing your Minimum Viable Product by thinking through 
 
 Remember that the purpose of testing an MVP is to validate your assumptions and learn from user feedback. Use the insights gained from testing to refine the product and create a better experience for your customers.
 
-**Types of Value Proposition:** 
-
-![alt](https://drive.google.com/file/d/1jQwe389PpcuO7r-8-YWIbeCVazHGB2tz/view?usp=share_link) 
-
 ## Reading: Market Research
 (10 mins) 
 
@@ -161,13 +157,13 @@ A Net Promoter Score (NPS) is a metric used by businesses to measure customer lo
 
 Based on their response, customers are grouped into three categories: promoters (score 9-10), passives (score 7-8), and detractors (score 0-6). The NPS is then calculated by subtracting the percentage of detractors from the percentage of promoters. The score can range from -100 to 100, with a higher score indicating greater customer loyalty and satisfaction.
 
-**Image to be added** 
-
 **How do I know when I have a Product Market Fit? **
 
 1. You consistently get an NPS > 50
 2. Returning customers who refer their friends, coworkers, family, etc.
 3. Sign-ups to subscriptions, loyalty programs, etc. and/or showing up to engagements
 
-## (15 mins) Breakout Rooms: 
+## Breakout Rooms: 
+(15 mins) 
+
 Meet in small groups to revisit the progress you’ve made on your vision and mission statement since last week.
