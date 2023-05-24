@@ -54,8 +54,9 @@ Registering a business involves completing the legal requirements for the format
 
 The registration process can vary depending on the location and type of business. It is recommended to consult with a legal and tax professional to ensure compliance with all legal and regulatory requirements.
 
-## (10 mins) Read and Discuss this Case Study: 
+## Read and Discuss: 
+(10 mins) 
 
-[MeUndies](https://www.clearslide.com/view/new/mail?iID=pzzGL6vSLRgHFZBfnwR4)
+Take a moment to read this case study about [MeUndies](https://www.clearslide.com/view/new/mail?iID=pzzGL6vSLRgHFZBfnwR4).
 
 As a group, ask and answer one another’s questions you have about this material. 
