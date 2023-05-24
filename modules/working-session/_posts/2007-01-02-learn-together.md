@@ -6,8 +6,12 @@ published: true
 
 Congratulations - you've reached the end of this learning circle! Celebrate your success thus far with other learners.
 
-## (50 mins) Breakout groups: 
+## Breakout groups:
+(50 mins) 
+
 Discuss your final executive summary in small groups and celebrate the improvements that you’ve made to your document!
 
-## (20 mins) Future steps:
+## Future steps:
+(20 mins)
+
 What are the next steps you’re excited to take in building your business?
