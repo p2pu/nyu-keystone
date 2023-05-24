@@ -4,11 +4,10 @@ published: true
 ---
 
 # Learn Together
-(65 minutes)
+*Suggested Time: 65 minutes*
 
 
-## Reading: Product Market Fit
-(10 mins) 
+## Reading: Product Market Fit (10 mins) 
 
 **What is a product?**
 
@@ -46,8 +45,7 @@ When defining Value Proposition, consider the** experiences** of your customers 
 * Talk to at least 5-10 potential customers
 * Update Value Proposition Canvas w/ Changes
 
-## Activity: Defining your Value Proposition
-(10 mins) 
+## Activity: Defining your Value Proposition (10 mins) 
 
 Take ten minutes to free-write responses to the following questions.
 
@@ -90,8 +88,7 @@ What are the benefits the customer wants, desires or expects?
 
 TIP: Rank the gains that your product or service creates according to relevance. Is this a substantial or insignificant gain creator, and how frequently does it occur?
 
-## Reading: What is the minimum viable product?
-(10 mins) 
+## Reading: What is the minimum viable product? (10 mins) 
 
 A Minimum Viable Product (MVP) is the most basic version of a product or service that a company can offer to its target customers to test the demand before investing significant time and resources in the development of a fully-featured product. 
 
@@ -128,8 +125,7 @@ Create a broad plan for testing your Minimum Viable Product by thinking through 
 
 Remember that the purpose of testing an MVP is to validate your assumptions and learn from user feedback. Use the insights gained from testing to refine the product and create a better experience for your customers.
 
-## Reading: Market Research
-(10 mins) 
+## Reading: Market Research (10 mins) 
 
 Market research is the process of gathering information about a target market to make informed business decisions. To conduct market research, first, define the research goals and the target market. Next, choose the appropriate research methods, such as surveys, interviews, or secondary research. Design the research instruments, such as survey questions or interview questions, to elicit the desired information. Collect the data and analyze it to draw conclusions and identify trends in the market. Use the insights gained from the research to inform business decisions and improve products or services.
 
@@ -163,7 +159,6 @@ Based on their response, customers are grouped into three categories: promoters 
 2. Returning customers who refer their friends, coworkers, family, etc.
 3. Sign-ups to subscriptions, loyalty programs, etc. and/or showing up to engagements
 
-## Breakout Rooms: 
-(15 mins) 
+## Breakout Rooms (15 mins) 
 
 Meet in small groups to revisit the progress you’ve made on your vision and mission statement since last week.
