@@ -3,7 +3,7 @@ title: Learn Together
 published: true
 ---
 # Learn Together
-#### (70 mins)
+(70 mins)
 
 
 ## Reading: Marketing & Sales
