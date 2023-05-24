@@ -4,7 +4,8 @@ published: true
 ---
 # Learn Together
 
-## (10 mins) Course Reading: Pivoting
+## Reading: Pivoting
+(10 mins) 
 
 Companies pivot when they change their business strategy or direction in order to adapt to changing market conditions, customer needs, or competitive pressures. This can involve shifting their focus to a different product or service, targeting a different customer segment, or exploring new business models or markets. Essentially, pivoting is a way for companies to evolve and stay relevant in a constantly changing business landscape.
 
@@ -16,14 +17,26 @@ Here are a few strategies that companies can use to manage their teams effective
 * Set achievable goals: Establish realistic and achievable goals for your team that align with the new direction. Ensure that everyone understands their individual goals and how they contribute to the overall company objectives.
 * Provide support and resources: Provide the necessary resources and support to help your team succeed in the new direction. This may include new tools, technologies, or processes.
 
-## (5 mins) Article: 
+## Article: 
+(5 mins) 
+
 [Famous business pivot examples that you should know of](https://tms-outsource.com/blog/posts/business-pivot-examples/) 
 
-## (5 mins) Article: 
+## Article:
+(5 mins)
+ 
 [How to Find the Right Co-Founder : YC Startup Library | Y Combinator](https://www.ycombinator.com/library/8h-how-to-find-the-right-co-founder) 
 
-## (32 mins) Founder Interview: 
-[Jason Shen - Founder Resilience](https://drive.google.com/file/d/194Lh_tiuPEXAfxfcnIzbZyY0BQunAmSc/view?usp=sharing)
+## Founder Interview: 
+(32 mins) 
 
-## (20 mins) Breakout Rooms: 
+Jason Shen - Founder Resilience
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/194Lh_tiuPEXAfxfcnIzbZyY0BQunAmSc/view?usp=sharing" allowfullscreen></iframe>
+</div>
+
+## Breakout Rooms: 
+(20 mins) 
+
 Discuss the strategies mentioned in today’s session and consider possible scenarios where they might be needed.
