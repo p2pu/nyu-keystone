@@ -5,16 +5,26 @@ published: true
 # Learn Together
 #### (70 mins)
 
-## (10 mins) Article: 
-[Fund your business](https://www.sba.gov/business-guide/plan-your-business/fund-your-business) - A comparison from the U.S. Small Business Administration**
+
+## Article:
+(10 mins)
+
+[Fund your business](https://www.sba.gov/business-guide/plan-your-business/fund-your-business) - A comparison from the U.S. Small Business Administration
 
 The following tables offer a quick overview of different types of financial resources available when funding your business.
 
 **Types of Financial Resources**
 
-**Images of tables to be added
+![alt]({{site.baseurl}}/img/types of financial resources.png)
 
-## (15 mins) Reading: Revenue and Pricing Models
+**Comparing Sources of Funding**
+![alt]({{site.baseurl}}/img/comparing sources of funding.png)
+
+**Types of Fundraising**
+![alt]({{site.baseurl}}/img/types of fundraising.png)
+
+## Reading: Revenue and Pricing Models
+(15 mins) 
 
 **Web + Mobile Revenue Models:**
 * Direct revenue models refer to the primary way a business generates revenue, usually through the sale of its core products or services. For example, a software company's direct revenue model would be the sale of its software product.
