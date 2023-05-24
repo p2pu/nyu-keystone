@@ -2,7 +2,9 @@
 title: Reflection
 published: true
 ---
-# Reflect (10 mins)
+# Reflect 
+
+**Learning Circle Wrap-Up (10 mins)**
 
 \+ What did you enjoy about this learning circle? 
 
