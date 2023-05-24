@@ -6,7 +6,9 @@ published: true
 # Learn Together
 #### (65 minutes)
 
-## (10 mins) Reading: Product Market Fit
+
+## Reading: Product Market Fit
+(10 mins) 
 
 **What is a product? **
 
@@ -20,15 +22,9 @@ A market is a broader group of potential customers, defined by ranges. A custome
 
 Product Market Fit (PMF) is the point where a product or service offered by a company perfectly meets the needs and wants of its target customers. In other words, PMF is when the product or service is in high demand and customers are satisfied with its features, benefits, and overall value. It is the stage where a business has found the right product-market match, where the product solves a real problem for the target market and meets their expectations. 
 
-[Image 1](https://drive.google.com/file/d/1RjPVsOF8x7ZbLcnBW8pIAwjMWcVj2zff/view?usp=share_link)
-
-[Image 2](https://drive.google.com/file/d/1em2l6g_E1QO4-nlUk9m0m0GKkNtubn_Z/view?usp=share_link) 
-
 **Defining Value Proposition**
 
 The **Value Proposition** is the worth that you offer to your customers. It’s typically a paragraph or sentence that articulates what your services, business or organization does, who it brings value to, and why it’s valuable to those people. It should be clear why someone would choose you over another company.
-
-[Image 3](https://drive.google.com/file/d/1T65byAW7a7Xz2L5GLHxdoX-QtaOSi0S7/view?usp=share_link) 
 
 When defining Value Proposition, consider the** experiences** of your customers and the **capability** of your product or service to help customers minimize pains and maximize gains.
 
@@ -50,7 +46,8 @@ Ask Yourself:
 * Talk to at least 5-10 potential customers
 * Update Value Proposition Canvas w/ Changes
 
-## (10 mins) Activity: Defining your Value Proposition
+## Activity: Defining your Value Proposition
+(10 mins) 
 
 Take ten minutes to free-write responses to the following questions.
 
@@ -93,7 +90,8 @@ What are the benefits the customer wants, desires or expects?
 
 TIP: Rank the gains that your product or service creates according to relevance. Is this a substantial or insignificant gain creator, and how frequently does it occur?
 
-## (10 mins) Reading: What is the minimum viable product?**
+## Reading: What is the minimum viable product?**
+(10 mins) 
 
 A Minimum Viable Product (MVP) is the most basic version of a product or service that a company can offer to its target customers to test the demand before investing significant time and resources in the development of a fully-featured product. 
 
@@ -132,9 +130,10 @@ Remember that the purpose of testing an MVP is to validate your assumptions and 
 
 **Types of Value Proposition:** 
 
-[Image 4](https://drive.google.com/file/d/1jQwe389PpcuO7r-8-YWIbeCVazHGB2tz/view?usp=share_link) 
+![alt](https://drive.google.com/file/d/1jQwe389PpcuO7r-8-YWIbeCVazHGB2tz/view?usp=share_link) 
 
-## (10 mins) Reading: Market Research
+## Reading: Market Research
+(10 mins) 
 
 Market research is the process of gathering information about a target market to make informed business decisions. To conduct market research, first, define the research goals and the target market. Next, choose the appropriate research methods, such as surveys, interviews, or secondary research. Design the research instruments, such as survey questions or interview questions, to elicit the desired information. Collect the data and analyze it to draw conclusions and identify trends in the market. Use the insights gained from the research to inform business decisions and improve products or services.
 
