@@ -5,7 +5,8 @@ published: true
 
 # Reflect + Next Steps
 
-**(5 mins) Reflection **
+**Reflection**
+(5 mins) 
 
 + What did you like about today’s session? What worked?
 
