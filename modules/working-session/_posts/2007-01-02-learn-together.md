@@ -3,6 +3,7 @@ title: Learn Together
 published: true
 ---
 # Learn Together
+(70 mins)
 
 Congratulations - you've reached the end of this learning circle! Celebrate your success thus far with other learners.
 
