@@ -4,7 +4,7 @@ published: true
 ---
 
 # Learn Together 
-#### (70 mins)
+(70 mins)
 
 
 ## Discussion: Sharing Goals, Taking Stock
