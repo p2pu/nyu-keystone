@@ -4,11 +4,13 @@ published: true
 ---
 
 # Learn Together 
-#### (65 mins)
+#### (70 mins)
 
-## (5 mins) Discussion: Goal Sharing
+## (10 mins) Discussion: Sharing Goals, Taking Stock
 
 Take turns sharing your goal for this course. What are you trying to get out of this learning experience?
+
+What business support resources are available at your local library? What business owners and other people with expertise in your community can you invite as guest lecturers? Add sessions or restructure the course to accommodate these guests as needed
 
 ## (10 mins) Reading
 
@@ -33,12 +35,6 @@ The vision of a company is a statement of its long-term aspirations and the futu
 The mission of a company defines its core purpose, what it does, and who it serves. It communicates the reason for the company's existence and the value it provides to its customers, employees, shareholders, and society at large. A well-crafted mission statement helps to guide strategic decisions, prioritize resources, and ensure that everyone in the organization is aligned with its purpose.
 
 The values of a company are the guiding principles that shape its culture, behaviors, and decision-making. They represent the beliefs, attitudes, and behaviors that the company expects from its employees and leaders. By defining and upholding a set of core values, a company can create a positive and inclusive work environment, foster innovation and creativity, and build trust and loyalty with customers and stakeholders.
-
-[Image 1](https://drive.google.com/file/d/1EQoGIMBSaHpF484n-B-HLZ6eb47qWcwi/view?usp=share_link)
-
-[Image 2](https://drive.google.com/file/d/1P1_Qr6MEjuoOPqdOeHmtw8fwB6L-2MlU/view?usp=share_link)
-
-[Image 3](https://drive.google.com/file/d/1sLAqdgpJTkWhW0uOEhSFDoPg0XtRJdbg/view?usp=share_link)   
 
 ## (5 mins) Activity: 
 Form small groups and discuss why you think the following statements are a vision or a mission statement.
