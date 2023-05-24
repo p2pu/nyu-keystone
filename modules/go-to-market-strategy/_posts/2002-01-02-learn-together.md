@@ -5,7 +5,9 @@ published: true
 # Learn Together 
 #### (75 mins)
 
-## (10 mins) Reading
+
+## Reading
+(10 mins) 
 
 **What is a Go-to-Market strategy?**
 
@@ -30,9 +32,16 @@ There are several types of business structures, each with its own legal and tax 
 
 Choosing the right business structure depends on various factors, including the type of business, the number of owners, the level of risk, the tax implications, and the desired level of control and flexibility. It is important to consult with a legal and tax professional before making a decision.
 
-## (32 mins) Founder Interview: [Nami Baral - Startup Business Plans](https://drive.google.com/file/d/1GL9t4LCgDSUeu4P9F_OQ7KyQ_T-J6yph/view?usp=sharing)
+## Founder Interview: 
+(32 mins) 
 
-## (10 mins) Reading: Business Registration
+Nami Baral - Startup Business Plans
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1GL9t4LCgDSUeu4P9F_OQ7KyQ_T-J6yph/view?usp=sharing" allowfullscreen></iframe>
+</div>
+
+## Reading: Business Registration
+(10 mins) 
 
 Registering a business involves completing the legal requirements for the formation of a new business entity, including registering with the appropriate government agencies and obtaining necessary permits and licenses. Here are the general steps to register a business:
 
