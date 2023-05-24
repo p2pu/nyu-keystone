@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
- A collaboration between P2PU and Keystone at the [NYU Tandon Future Labs](https://futurelabs.nyc/program-variants/keystone/).
+A collaboration between P2PU and Keystone at the [NYU Tandon Future Labs](https://futurelabs.nyc/program-variants/keystone/).
 
 #### About Course-in-a-Box
 
