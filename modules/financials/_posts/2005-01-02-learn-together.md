@@ -3,11 +3,10 @@ title: Learn Together
 published: true
 ---
 # Learn Together
-(70 mins)
+*Suggested time: 70 mins*
 
 
-## Article:
-(10 mins)
+## Article (10 mins)
 
 [Fund your business](https://www.sba.gov/business-guide/plan-your-business/fund-your-business) - A comparison from the U.S. Small Business Administration
 
@@ -77,10 +76,10 @@ The key difference between direct and ancillary revenue models is that direct re
 * Tax
 * Shipping
 
-## (10 mins) Article: 
+## Article (10 mins) 
 [How to Read and Understand a Cash Flow Statement](https://online.hbs.edu/blog/post/how-to-read-a-cash-flow-statement)
 
-## (15 mins) Discussion: 
+## Discussion (15 mins) 
 Review the concepts in today’s readings. Did anything feel particularly interesting or confusing?  Answer one another’s questions and commit to finding answers after the session if any questions remain.
 
 ## (20 mins) Breakout Rooms: 
