@@ -47,7 +47,11 @@ Form small groups and discuss why you think the following statements are a visio
 6. Microsoft: Early days: “A computer on every desk and in every home.” Now: “To empower every person and every organization on the planet to achieve more.” (Mission)
 
 ## (18 mins) Video: 
-Barak Kaufman - [Why Start a Company? Articulate your Vision and Purpose](https://drive.google.com/drive/u/0/folders/1U_msSPWssOYop1Kn7PPwMTdszBBvAoKp)
+Barak Kaufman - Why Start a Company? Articulate your Vision and Purpose
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://drive.google.com/drive/u/0/folders/1U_msSPWssOYop1Kn7PPwMTdszBBvAoKp)" allowfullscreen></iframe>
+</div>
 
 ## (5 mins) Discussion:
 Share your thoughts about the video. What ideas stood out to you? Do you need clarification on certain terms and concepts? What ideas do you want to learn more about? 
