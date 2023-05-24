@@ -3,6 +3,8 @@ title: Learn Together
 published: true
 ---
 # Learn Together
+(70 mins)
+
 
 ## Reading: Pivoting
 (10 mins) 
@@ -37,6 +39,6 @@ Jason Shen - Founder Resilience
 </div>
 
 ## Breakout Rooms: 
-(20 mins) 
+(15 mins) 
 
 Discuss the strategies mentioned in today’s session and consider possible scenarios where they might be needed.
