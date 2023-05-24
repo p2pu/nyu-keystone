@@ -1,5 +1,5 @@
 ---
-title: Check-In
+title: Learn Together
 published: true
 ---
 # Learn Together
