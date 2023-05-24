@@ -3,7 +3,7 @@ title: Learn Together
 published: true
 ---
 # Learn Together
-(70 mins)
+*Suggested Time: 70 mins*
 
 
 ## Reading: Pivoting
@@ -19,18 +19,15 @@ Here are a few strategies that companies can use to manage their teams effective
 * Set achievable goals: Establish realistic and achievable goals for your team that align with the new direction. Ensure that everyone understands their individual goals and how they contribute to the overall company objectives.
 * Provide support and resources: Provide the necessary resources and support to help your team succeed in the new direction. This may include new tools, technologies, or processes.
 
-## Article: 
-(5 mins) 
+## Article (5 mins) 
 
 [Famous business pivot examples that you should know of](https://tms-outsource.com/blog/posts/business-pivot-examples/) 
 
-## Article:
-(5 mins)
+## Article (5 mins)
  
 [How to Find the Right Co-Founder : YC Startup Library | Y Combinator](https://www.ycombinator.com/library/8h-how-to-find-the-right-co-founder) 
 
-## Founder Interview: 
-(32 mins) 
+## Founder Interview (32 mins) 
 
 Jason Shen - Founder Resilience
 
@@ -38,7 +35,6 @@ Jason Shen - Founder Resilience
   <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/194Lh_tiuPEXAfxfcnIzbZyY0BQunAmSc/view?usp=sharing" allowfullscreen></iframe>
 </div>
 
-## Breakout Rooms: 
-(15 mins) 
+## Breakout Rooms (15 mins) 
 
 Discuss the strategies mentioned in today’s session and consider possible scenarios where they might be needed.
