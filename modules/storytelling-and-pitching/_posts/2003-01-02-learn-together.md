@@ -28,7 +28,7 @@ To write an elevator pitch for a business, start by identifying the problem that
 * What benefits would you bring to the world?
 * What current skills and experience do you have?
 
-**Step 2: Now, take five minutes to write this information on a sticky note, index card, or other small piece of paper. **
+**Step 2: Now, take five minutes to write this information on a sticky note, index card, or other small piece of paper.**
 * What do you do?
 * Why does it matter?
 * Why do you do it?
