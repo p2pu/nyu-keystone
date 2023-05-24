@@ -6,13 +6,16 @@ published: true
 # Learn Together 
 #### (70 mins)
 
-## (10 mins) Discussion: Sharing Goals, Taking Stock
+
+## Discussion: Sharing Goals, Taking Stock
+(10 mins) 
 
 Take turns sharing your goal for this course. What are you trying to get out of this learning experience?
 
 What business support resources are available at your local library? What business owners and other people with expertise in your community can you invite as guest lecturers? Add sessions or restructure the course to accommodate these guests as needed
 
-## (10 mins) Reading
+## Reading
+(10 mins) 
 
 **What is a business model?**
 
@@ -36,7 +39,9 @@ The mission of a company defines its core purpose, what it does, and who it serv
 
 The values of a company are the guiding principles that shape its culture, behaviors, and decision-making. They represent the beliefs, attitudes, and behaviors that the company expects from its employees and leaders. By defining and upholding a set of core values, a company can create a positive and inclusive work environment, foster innovation and creativity, and build trust and loyalty with customers and stakeholders.
 
-## (5 mins) Activity: 
+## Activity: 
+(5 mins) 
+
 Form small groups and discuss why you think the following statements are a vision or a mission statement.
 
 1. Ben & Jerry’s: “Making the best ice cream in the nicest possible way.” (Vision)
@@ -46,18 +51,26 @@ Form small groups and discuss why you think the following statements are a visio
 5. LinkedIn: “Create economic opportunity for every member of the global workforce.” (Vision)
 6. Microsoft: Early days: “A computer on every desk and in every home.” Now: “To empower every person and every organization on the planet to achieve more.” (Mission)
 
-## (18 mins) Video: 
+## Video: 
+(18 mins) 
+
 Barak Kaufman - Why Start a Company? Articulate your Vision and Purpose
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://drive.google.com/drive/u/0/folders/1U_msSPWssOYop1Kn7PPwMTdszBBvAoKp)" allowfullscreen></iframe>
 </div>
 
-## (5 mins) Discussion:
+## Discussion:
+(5 mins) 
+
 Share your thoughts about the video. What ideas stood out to you? Do you need clarification on certain terms and concepts? What ideas do you want to learn more about? 
 
-## (5 mins) Activity: 
+## Activity: 
+(5 mins) 
+
 Quickly free-write your first draft of your mission and vision statements for your company (real or imagined!). You’ll keep working on this in future sessions, so it’s okay to get a general idea on paper.
 
-## (10 mins) Breakout Rooms: 
+## Breakout Rooms: 
+(10 mins) 
+
 Discuss your vision and mission statements in small groups. 
