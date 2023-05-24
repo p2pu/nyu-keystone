@@ -3,7 +3,7 @@ title: Check-In
 published: true
 ---
 # Learn Together
-#### (70 mins)
+(70 mins)
 
 
 ## Article:
