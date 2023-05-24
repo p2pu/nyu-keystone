@@ -3,7 +3,7 @@ title: Learn Together
 published: true
 ---
 # Learn Together 
-#### (75 mins)
+(75 mins)
 
 
 ## Reading
