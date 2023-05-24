@@ -1,7 +1,6 @@
 title: Keystone
 description: |
-    The <a href="https://futurelabs.nyc/">NYU Tandon Future Labs</a> is collaborating with P2PU to bring their Keystone entrepreneurship program to learning circles. 
-    Course-in-a-Box is an open-source project for creating online courses, built by <a href="https://www.p2pu.org">P2PU</a>. 
+    A collaboration between the NYU Tandon Future Labs and P2PU.
 modules:
   - title: Vision and Mission
     slug: vision-and-mission
