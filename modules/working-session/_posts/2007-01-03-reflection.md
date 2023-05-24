@@ -2,11 +2,9 @@
 title: Reflection
 published: true
 ---
-# Reflect 
+# Reflect (10 mins)
 
-**(10 mins)**
-
-+ What did you enjoy about this learning circle? 
+\+ What did you enjoy about this learning circle? 
 
 △ What would you recommend that other participants do differently? 
 
