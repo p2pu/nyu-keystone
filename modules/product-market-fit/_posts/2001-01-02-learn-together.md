@@ -90,7 +90,7 @@ What are the benefits the customer wants, desires or expects?
 
 TIP: Rank the gains that your product or service creates according to relevance. Is this a substantial or insignificant gain creator, and how frequently does it occur?
 
-## Reading: What is the minimum viable product?**
+## Reading: What is the minimum viable product?
 (10 mins) 
 
 A Minimum Viable Product (MVP) is the most basic version of a product or service that a company can offer to its target customers to test the demand before investing significant time and resources in the development of a fully-featured product. 
@@ -115,7 +115,7 @@ To test a **physical** minimum viable product, the first step is to create a pro
 
 To test a **web/mobile** minimum viable product, start with a "low fidelity" version of the web or app. This can be done through the use of wireframes or PowerPoint presentations with mockups. By doing this, you can receive valuable feedback from your customers, which in turn helps validate your business model and ensures that you are addressing a real problem. As you move forward, you can create a "high fidelity" version of the product with more features and a concrete layout. This version helps test your understanding of the solution and proves that it solves a core problem for customers. Take into account the feedback from early adopters (or “earlyvangelists”) who are willing to take a risk on your startup's product or service because they can envision its potential to solve a critical and immediate problem. This approach helps to avoid building products that nobody wants and maximizes the learning per time spent on the development process.
 
-**Step Three: Test the Minimum Viable Product **
+**Step Three: Test the Minimum Viable Product**
 
 Create a broad plan for testing your Minimum Viable Product by thinking through the following tactics. \
 
