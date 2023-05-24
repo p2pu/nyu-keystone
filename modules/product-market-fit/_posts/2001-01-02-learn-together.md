@@ -4,7 +4,7 @@ published: true
 ---
 
 # Learn Together
-#### (65 minutes)
+(65 minutes)
 
 
 ## Reading: Product Market Fit
