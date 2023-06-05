@@ -21,11 +21,13 @@ A market is a broader group of potential customers, defined by ranges. A custome
 
 Product Market Fit (PMF) is the point where a product or service offered by a company perfectly meets the needs and wants of its target customers. In other words, PMF is when the product or service is in high demand and customers are satisfied with its features, benefits, and overall value. It is the stage where a business has found the right product-market match, where the product solves a real problem for the target market and meets their expectations. 
 
+![alt]({{site.baseurl}}/img/2a.png)
+
 **Defining Value Proposition**
 
 The **Value Proposition** is the worth that you offer to your customers. It’s typically a paragraph or sentence that articulates what your services, business or organization does, who it brings value to, and why it’s valuable to those people. It should be clear why someone would choose you over another company.
 
-When defining Value Proposition, consider the** experiences** of your customers and the **capability** of your product or service to help customers minimize pains and maximize gains.
+When defining Value Proposition, consider the ** experiences** of your customers and the **capability** of your product or service to help customers minimize pains and maximize gains.
 
 **Ask Yourself:**
 
@@ -44,6 +46,8 @@ When defining Value Proposition, consider the** experiences** of your customers 
 * Determine what constitutes a pass/fail signal
 * Talk to at least 5-10 potential customers
 * Update Value Proposition Canvas w/ Changes
+
+![alt]({{site.baseurl}}/img/2b.png)
 
 ## Activity: Defining your Value Proposition (10 mins) 
 
@@ -152,6 +156,8 @@ Market research is the process of gathering information about a target market to
 A Net Promoter Score (NPS) is a metric used by businesses to measure customer loyalty and satisfaction with a product, service or brand. It is calculated by asking customers a single question: "How likely are you to recommend this product/service/brand to a friend or colleague?" The answer is given on a scale of 0-10, with 0 being "not at all likely" and 10 being "extremely likely."
 
 Based on their response, customers are grouped into three categories: promoters (score 9-10), passives (score 7-8), and detractors (score 0-6). The NPS is then calculated by subtracting the percentage of detractors from the percentage of promoters. The score can range from -100 to 100, with a higher score indicating greater customer loyalty and satisfaction.
+
+![alt]({{site.baseurl}}/img/2c.png)
 
 **How do I know when I have a Product Market Fit?**
 
