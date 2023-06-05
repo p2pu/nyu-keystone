@@ -108,6 +108,8 @@ The purpose of the MVP is to test the ability of a product to meet minimal custo
 * Competition: What do customers do today?
 * Product: How do you do it?
 
+![alt]({{site.baseurl}}/img/2c.png)
+
 **Step Two: Define Your Minimum Value Product**
 
 Use the following prompts to help you think through the steps to bringing your MVP to your customer base.
@@ -157,7 +159,7 @@ A Net Promoter Score (NPS) is a metric used by businesses to measure customer lo
 
 Based on their response, customers are grouped into three categories: promoters (score 9-10), passives (score 7-8), and detractors (score 0-6). The NPS is then calculated by subtracting the percentage of detractors from the percentage of promoters. The score can range from -100 to 100, with a higher score indicating greater customer loyalty and satisfaction.
 
-![alt]({{site.baseurl}}/img/2c.png)
+![alt]({{site.baseurl}}/img/2d.png)
 
 **How do I know when I have a Product Market Fit?**
 
