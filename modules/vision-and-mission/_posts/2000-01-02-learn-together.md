@@ -21,9 +21,10 @@ A business model is a plan or strategy that outlines how a business will generat
 
 The organization develops and delivers the customer value proposition and go-to-market to fulfill the needs of the target customers better than competitors, all for the purpose of achieving the mission.
 
-![alt]({{site.baseurl}}/img/1a.png
+![alt]({{site.baseurl}}/img/1a.png)
 
-![alt]({{site.baseurl}}/img/1b.png
+
+![alt]({{site.baseurl}}/img/1b.png)
 
 **Vision, Mission, and Values**
 
