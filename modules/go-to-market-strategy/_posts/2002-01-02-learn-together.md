@@ -8,15 +8,51 @@ published: true
 
 ## Reading (10 mins) 
 
+Let's revisit our earlier concept of Product-Market-Fit by considering this quote from Andy Rachleff, a business hall of famer:
+
+"If you address a market that really wants your product -- if the dogs are eating the dog food -- then you can screw up almost everything in the company and you will succeed. Conversely, if you're really good at execution but the dogs don't want to eat the dog food, you have no chance of winning."
+
+Creating a strong **Go-To-Market strategy** ensures that your company is creating a product (here, dog food) that is too good for your customers (here, dogs) to resist. So, in short: PMF = find the dogs, make the dog food, let them eat!
+
+![alt]({{site.baseurl}}/img/3b.jpeg)
+
+
 **What is a Go-to-Market strategy?**
 
-A Go-to-Market (GTM) strategy is a plan that outlines how a company will introduce and sell its products or services to its target market. It includes all the activities, tactics, and channels that the company will use to reach and engage with customers, create awareness, generate demand, and drive sales.
+A Go-to-Market (GTM) strategy is a plan that outlines how a company will introduce and sell its products or services to its target market. It includes all the outside resources (such as sales force and distributors) that the company will use to deliver their unique value proposition and achieve a competitive advantage. The end goal of this strategy is to enhance the overall customer experience by offering a superior product and/or more competitive pricing.
 
-A well-crafted GTM strategy considers the needs and preferences of the target customers, the competitive landscape, the unique selling points of the product or service, and the capabilities and resources of the company. It typically involves a combination of marketing, sales, and distribution efforts, such as advertising, content marketing, social media, email marketing, sales calls, and partnerships.
+Some key definitions for understanding GTM:
+
+- A **product** is how you deliver value to your organization's customers. 
+- A **market** is a more broad group of potential customers, defined by ranges. 
+    - A **customer** is the person you’ve identified as most likely to purchase your products. 
 
 The GTM strategy should also define the pricing, packaging, and positioning of the product or service, as well as the metrics and KPIs to measure success and track progress towards the goals.
 
 The ultimate goal of a GTM strategy is to create a sustainable and profitable business by acquiring and retaining customers, building brand recognition and loyalty, and delivering value that meets or exceeds the expectations of the target market.
+
+**Sales vs. Marketing**
+
+Let's compare some key difference between sales and marketing:
+
+Sales:
+- All activities that lead to the selling of goods or services
+- Sales works directly with prospects to reinforce the value of the company’s solution to convert prospects into customers
+- The primary focus of sales is to hit quotas and sales volume goals
+- Sales has a short-term focus than marketing
+
+Marketing:
+- Describes all activities that help spark interest in your business
+- Marketing informs and attracts leads and prospects to your company and product or service
+- The primary goal of marketing is to look at the big picture and promote the company, product or service, and brand
+- Marketing departments are responsible for pricing the products and communicating how the product fills the customers’ needs and wants
+
+Keep in mind that in early-stage businesses (like yours), *everyone* is doing sales.
+
+The following graphic illustrates **the 7 P's of a target market:**
+
+![alt]({{site.baseurl}}/img/3a.jpeg)
+
 
 **Business Structure**
 
