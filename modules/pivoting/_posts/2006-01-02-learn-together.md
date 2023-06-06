@@ -19,13 +19,13 @@ Here are a few strategies that companies can use to manage their teams effective
 * Set achievable goals: Establish realistic and achievable goals for your team that align with the new direction. Ensure that everyone understands their individual goals and how they contribute to the overall company objectives.
 * Provide support and resources: Provide the necessary resources and support to help your team succeed in the new direction. This may include new tools, technologies, or processes.
 
-## Article (5 mins) 
+## Articles (5 mins) 
+
+Find key points in one (or both) of the following articles to share in our upcoming discussion.
 
 [Famous business pivot examples that you should know of](https://tms-outsource.com/blog/posts/business-pivot-examples/) 
-
-## Article (5 mins)
  
-[How to Find the Right Co-Founder : YC Startup Library | Y Combinator](https://www.ycombinator.com/library/8h-how-to-find-the-right-co-founder) 
+[How to Find the Right Co-Founder: YC Startup Library - Y Combinator](https://www.ycombinator.com/library/8h-how-to-find-the-right-co-founder) 
 
 ## Founder Interview (32 mins) 
 
