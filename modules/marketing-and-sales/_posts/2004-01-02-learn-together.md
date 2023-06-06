@@ -8,7 +8,12 @@ published: true
 
 ## Reading: Marketing & Sales (5 mins) 
 
-Marketing and sales are crucial components of a successful business strategy. To do marketing and sales for a business, start by identifying the target market and their needs and preferences. Develop a marketing plan that includes a messaging strategy, advertising channels, and tactics to reach the target audience. Utilize social media, email marketing, content marketing, and search engine optimization to generate leads and build brand awareness.
+Marketing and sales are crucial components of a successful business strategy. To do marketing and sales for a business, start by identifying the target market and their needs and preferences. Develop a marketing plan that includes a messaging strategy, advertising channels, and tactics to reach the target audience. Utilize social media, email marketing, content marketing, and search engine optimization to generate leads and build brand awareness. 
+
+**Consider the 4 P's of the marketing mix:**
+
+![alt]({{site.baseurl}}/img/5a.png)
+
 
 For sales, focus on building relationships with potential customers, understanding their needs, and providing solutions. Create a sales process that includes lead generation, qualification, presentation, and closing. Train sales staff to be knowledgeable about the products or services offered and to communicate effectively with potential customers.
 
