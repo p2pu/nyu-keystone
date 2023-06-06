@@ -64,13 +64,12 @@ Simply put: If your company is marketing intensive, the product is bought. If yo
 
 Direct to consumer products (such as toothpaste) tend to be more marketing intensive. Business 2 Business products (such as jet engines) tend to be more sales intensive. Take five minutes to go through the factors listed in the above image and to determine where your company fits.
 
-## Article (5 mins) 
+## Articles (5 mins) 
 
-[8 Marketing Goals Examples](https://clickup.com/blog/marketing-goals/)
+Take five minutes to find key points from one (or both) of these articles to share in the upcoming discussion. 
 
-## Article (5 mins) 
-
-[17 Sales Goals Examples for Individuals and Teams with an Action Plan](https://www.leadsquared.com/learn/sales/sales-goals-examples-for-success/)
+- [17 Sales Goals Examples for Individuals and Teams with an Action Plan](https://www.leadsquared.com/learn/sales/sales-goals-examples-for-success/)
+- [8 Marketing Goals Examples](https://clickup.com/blog/marketing-goals/)
 
 ## Founder Interview (30 mins) 
 
