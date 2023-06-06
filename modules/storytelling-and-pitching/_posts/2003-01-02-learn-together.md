@@ -8,7 +8,9 @@ published: true
 
 ## Reading: Elevator Pitch (5 mins) 
 
-An elevator pitch is a short, persuasive speech that summarizes the key points of a business idea or product in a compelling way.  It's called an elevator pitch because it should be short enough to deliver in the time it takes to ride an elevator with someone.
+An elevator pitch is a short, persuasive speech that summarizes the key points of a business idea or product in a compelling way.  It's called an elevator pitch because it should be short enough to deliver in the time it takes to ride an elevator with someone. Think of it as a core component to the pitch deck and business plan that you create for your company.
+
+![alt]({{site.baseurl}}/img/4a.png)
 
 To write an elevator pitch for a business, start by identifying the problem that the business solves and the target market. Next, explain the unique value proposition of the business, or what sets it apart from competitors. Use simple language and avoid jargon or technical terms that might be confusing. Keep the pitch concise, typically around 30 seconds, and include a call to action or next steps. Practice the pitch to refine the wording and delivery, and tailor it for different audiences or situations. The goal is to capture the listener's interest and encourage them to learn more about the business.
 
@@ -18,6 +20,8 @@ To write an elevator pitch for a business, start by identifying the problem that
 * It’s okay for your pitch to change over time as you learn more about your audience and what resonates with them.
 
 ## Activity: Craft an elevator pitch! (15 mins)
+
+![alt]({{site.baseurl}}/img/4b.jpeg)
 
 **Step 1: Take five minutes to write down everything you want someone you’re meeting to know about you.**
 * Who are you? What’s your business?
