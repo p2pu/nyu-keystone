@@ -6,7 +6,7 @@ published: true
 This open course is a collaboration between P2PU and the [NYU Tandon Future Labs](https://futurelabs.nyc/program-variants/keystone/). The Keystone course was designed by the NYU Tandon Future Labs as a virtual eight-week crash course for early-stage founders and aspiring entrepreneurs with technology-enabled ventures in New York State. In this collaboration, P2PU has adapted this course material to integrate the [learning circle framework](https://docs.p2pu.org/) by emphasizing group activities, opportunities for reflection, and peer collaboration. 
 
 ## Structure and use
-Anyone can use this material to facilitate a learning group or educate themselves on the topic of AI. (No math, programming skills, or existing understanding of AI is required.)
+Anyone can use this material to facilitate a learning group or educate themselves on the starting a company.
 
 This course is designed to be run as a learning circle: a facilitated study group for people who want to meet regularly and learn about a topic with others. There are no teachers or students in a learning circle—it is a group where everyone learns the material together. The learning circle’s facilitator decides the meeting schedule, keeps the group on task during meetings, and supports individual learners’ participation and goals. [(Learn more about learning circle facilitation here.)](https://handbook.p2pu.org/facilitation/facilitation-basics)
 
