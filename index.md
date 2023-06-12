@@ -2,6 +2,7 @@
 layout: index
 published: true
 ---
+## An open course for new founders from NYU Tandon Future Labs + P2PU.
 
 This open course is a collaboration between P2PU and the [NYU Tandon Future Labs](https://futurelabs.nyc/program-variants/keystone/). The Keystone course was designed by the NYU Tandon Future Labs as a virtual eight-week crash course for early-stage founders and aspiring entrepreneurs with technology-enabled ventures in New York State. In this collaboration, P2PU has adapted this course material to integrate the [learning circle framework](https://docs.p2pu.org/) by emphasizing group activities, opportunities for reflection, and peer collaboration. 
 
