@@ -29,11 +29,10 @@ Find key points in one (or both) of the following articles to share in our upcom
 
 ## Founder Interview (32 mins) 
 
-Jason Shen - Founder Resilience
+**Jason Shen - Founder Resilience**
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/194Lh_tiuPEXAfxfcnIzbZyY0BQunAmSc/view?usp=sharing" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xjWhkd3QuC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Breakout Rooms (15 mins) 
 
