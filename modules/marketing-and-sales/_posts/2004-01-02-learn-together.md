@@ -75,7 +75,7 @@ Take five minutes to find key points from one (or both) of these articles to sha
 
 Jordan Wan - Sales for New Founders
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/194Lh_tiuPEXAfxfcnIzbZyY0BQunAmSc/view?usp=sharing" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://youtu.be/aRBoYTr--i4" allowfullscreen></iframe>
 </div>
 
 ## Discussion (10 mins)
