@@ -69,10 +69,10 @@ Choosing the right business structure depends on various factors, including the 
 
 ## Founder Interview (32 mins) 
 
-Nami Baral - Startup Business Plans
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1GL9t4LCgDSUeu4P9F_OQ7KyQ_T-J6yph/view?usp=sharing" allowfullscreen></iframe>
-</div>
+**Nami Baral - Startup Business Plans**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/khIwtqSSCho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Reading: Business Registration (10 mins) 
 
