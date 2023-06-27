@@ -74,9 +74,8 @@ Take five minutes to find key points from one (or both) of these articles to sha
 ## Founder Interview (30 mins) 
 
 Jordan Wan - Sales for New Founders
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=aRBoYTr--i4&ab_channel=P2PUCommunity" allowfullscreen></iframe>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRBoYTr--i4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Discussion (10 mins)
 
